@@ -1,0 +1,11 @@
+/* Menu.css */
+/* Add styles for the dropdown menu */
+.dropdown-menu {
+    margin-bottom: 20px;
+  }
+  
+  .dropdown-menu select {
+    padding: 10px;
+    font-size: 16px;
+  }
+  

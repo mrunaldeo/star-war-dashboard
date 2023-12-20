@@ -1,0 +1,25 @@
+/* Common.css */
+/* Add common styles for reusable components */
+.list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .list-item img {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .grid-toggle {
+    margin-bottom: 20px;
+  }
+  
+  .grid-toggle label {
+    font-size: 16px;
+  }
+  
+  /* Add more common styles as needed */
+  
