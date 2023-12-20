@@ -1,2 +1,2 @@
-# redesigned-parakeet
-Dashboard of start war. contains all the categories eg starships , species , planets etc  
+
+Dashboard of start war. contains all the categories eg starships, species, planets etc  
